@@ -1,0 +1,323 @@
+[
+  {
+    "HeadersDescriptors": {
+      "Header1": "Your Personality",
+      "Descriptor1": [
+        {
+          "OnePersonality": "You're ",
+          "TwoPersonalityCompatible": "You're ",
+          "TwoPersonalityInConsistent": "You combine interests and abilities in an unusual way.",
+          "MoreThanTwo": "You have a mix of interests and abilities."
+        }
+      ],
+      "Descriptor2": [
+        {
+          "OnePersonality": "THRIVING environment",
+          "TwoPersonalityCompatible": "THRIVING environments",
+          "TwoPersonalityInConsistent": "PROMISING environments",
+          "MoreThanTwo": "PROMISING environments"
+        }
+      ],
+      "Descriptor3": [
+        {
+          "TwoPersonalityInConsistent": "Your unusual combination of two <a href='https://www.careerkey.org/choose-a-career/unusual-Holland-Code-combinations.html' target='_blank'>incompatible types</a> gives you advantages in certain careers and work environments.",
+          "MoreThanTwo": "Because you have <a href='https://www.youtube.com/watch?v=JaisODEhFSo' target='_blank'>mixed interests and abilities</a>, check out our advice to narrow your focus and find the opportunities that fit."
+        }
+      ],
+      "URLDescriptor3": [
+        {
+          "TwoPersonalityInConsistent": "https://www.careerkey.org/choose-a-career/unusual-Holland-Code-combinations.html",
+          "MoreThanTwo": "https://www.youtube.com/watch?v=JaisODEhFSo"
+        }
+      ],
+      "Descriptor4": "CHALLENGING environments",
+      "ValueProp1": [
+        {
+          "PageHeader": "Six Types",
+          "desc": "We look at 6 personality types, giving you a score in each one.",
+          "link": "About Holland's theory",
+          "url": "https://www.careerkey.org/discovery/about-Hollands-Theory.html"
+        }
+      ],
+      "ValueProp2": [
+        {
+          "PageHeader": "Your Scores",
+          "desc": "Scores range from 0 to 33.  Higher scores show stronger self-identity to that type.",
+          "link": "About the scores",
+          "url": "https://www.careerkey.org/discovery/about-the-scores.html"
+        }
+      ],
+      "ValueProp3": [
+        {
+          "PageHeader": "Ideal Work Environments",
+          "desc": "The higher your score, the more comfortable you'll be in a work environment of that type.",
+          "linkCareers": "Choose Careers",
+          "link": "Choose Careers and Majors"
+        }
+      ],
+      "CalltoAction": [
+        {
+          "desc1Careers": "Now choose careers",
+          "desc1": "Now, choose careers and majors",
+          "desc2": "Remember, you will more likely be comfortable in",
+          "oneTypePersonalitySuffix": " a ",
+          "oneTypePersonalityPrefix": "environment",
+          "ExceptoneTypePersonalityPrefix": "environments"
+        }
+      ],
+      "subHeadCol1": [
+        {
+          "header": "Success = Fit",
+          "p1": "Match your personality to your work environment to thrive in your career.",
+          "p2": "When you thrive, you use your skills and abilities to express your values."
+        }
+      ],
+      "subHeadCol2": [
+        {
+          "header": "Look for Compatibility",
+          "p1": "There are personality types that are similar to yours, shown on the <a href='https://www.careerkey.org/discovery/about-Hollands-Theory.html' target='_blank'>Holland hexagon</a>.",
+          "p2": "These compatible work environments may be equally satisfying."
+        }
+      ],
+      "subHeadCol3": [
+        {
+          "header": "Check the List",
+          "p1Careers": "Career Key has matched hundreds of careers  to personality types.",
+          "p1": "Career Key has matched hundreds of careers and majors to personality types.",
+          "p2": "We can help you narrow your choices or introduce new ones."
+        }
+      ],
+      "Details": [
+        {
+          "DescriptionHeader": "PERSONALITY TYPE",
+          "Column1": "Compatible Types",
+          "Column2": "Likes to",
+          "Column3": "Avoids",
+          "Column4": "Has good skills with",
+          "Column5": "Values"
+        }
+      ]
+    },
+    "ShortDescriptions": {
+      "R": {
+        "pt": "R",
+        "personalityType": "Realistic",
+        "pageHeader": "practical",
+        "compatibleTypes": [
+          "Conventional",
+          "Investigative"
+        ],
+        "scoreDisplay": "practical and genuine",
+        "OneSentence": "You see yourself as practical with mechanical ability.",
+        "Environment": "Realistic environments reward practicality and making better things you can see or touch.",
+        "Jobs": [
+          "Pilot",
+          "Paramedic",
+          "Diesel Mechanic",
+          "Forester"
+        ],
+        "Likesto": [
+          "Work with animals, tools and machines"
+        ],
+        "Avoids": [
+          "Social activities",
+          "Teaching",
+          "Nursing",
+          "Informing others"
+        ],
+        "Hasgoodskillswith": [
+          "Tools",
+          "Mechanical drawings",
+          "Machines",
+          "Animals"
+        ],
+        "Values": [
+          "Practicality",
+          "Things you can see or touch",
+          "Plants and animals you grow",
+          "Things you build or make better"
+        ]
+      },
+      "I": {
+        "pt": "I",
+        "personalityType": "Investigative",
+        "pageHeader": "precise",
+        "compatibleTypes": [
+          "Artistic",
+          "Realistic"
+        ],
+        "scoreDisplay": "precise and intellectual",
+        "OneSentence": "You see yourself as curious, independent and good at understanding math and science.",
+        "Environment": "Investigative environments reward seeing the world in complex and abstract ways.",
+        "Jobs": [
+          "Chemist",
+          "Software Developer",
+          "Economist",
+          "Civil Engineer"
+        ],
+        "Likesto": [
+          "Study and solve Math or science problems"
+        ],
+        "Avoids": [
+          "Leading",
+          "Selling",
+          "Persuading people"
+        ],
+        "Hasgoodskillswith": [
+          "Understanding",
+          "Solving science and math problems"
+        ],
+        "Values": [
+          "Curiosity",
+          "Scientific achievement",
+          "Independence Logic"
+        ]
+      },
+      "A": {
+        "pt": "A",
+        "personalityType": "Artistic",
+        "pageHeader": "expressive",
+        "compatibleTypes": [
+          "Investigative",
+          "Social"
+        ],
+        "scoreDisplay": "expressive and independent",
+        "OneSentence": "You see yourself as expressive, original, and independent with artistic ability.",
+        "Environment": "Artistic environments reward originality and creativity.",
+        "Jobs": [
+          "Fashion Designer",
+          "Writer",
+          "Musician",
+          "Architect"
+        ],
+        "Likesto": [
+          "Creative activities like acting, writing and music"
+        ],
+        "Avoids": [
+          "Repetitive and orderly activities "
+        ],
+        "Hasgoodskillswith": [
+          "Creating and expressing themselves in writing, drama, music or art"
+        ],
+        "Values": [
+          "Creative arts",
+          "Imagination",
+          "Courage"
+        ]
+      },
+      "S": {
+        "pt": "S",
+        "personalityType": "Social",
+        "pageHeader": "helpful",
+        "compatibleTypes": [
+          "Artistic",
+          "Enterprising"
+        ],
+        "scoreDisplay": "helpful and understanding",
+        "OneSentence": "You see yourself as helpful, friendly, and trustworthy to the people around you.",
+        "Environment": "Social environments reward helping people, friendliness, and solving social problems.",
+        "Jobs": [
+          "Teacher",
+          "Counselor",
+          "Nurse",
+          "Social Worker",
+          "Athletic Trainer"
+        ],
+        "Likesto": [
+          "Teach",
+          "Give advice or comfort",
+          "Take care of others",
+          "Give information"
+        ],
+        "Avoids": [
+          "Using machines and tools"
+        ],
+        "Hasgoodskillswith": [
+          "Helping people",
+          "Understanding people",
+          "Teaching"
+        ],
+        "Values": [
+          "Helping people",
+          "Solving social problems",
+          "Equality"
+        ]
+      },
+      "E": {
+        "pt": "E",
+        "personalityType": "Enterprising",
+        "pageHeader": "ambitious",
+        "compatibleTypes": [
+          "Conventional",
+          "Social"
+        ],
+        "scoreDisplay": "energetic and ambitious",
+        "OneSentence": "You see yourself as sociable and good at selling things and ideas.",
+        "Environment": "Enterprising environments reward leadership, assertiveness, and ambition.",
+        "Jobs": [
+          "City Manager",
+          "Lawyer",
+          "Sales Manager",
+          "Hair Stylist",
+          "Treasurer"
+        ],
+        "Likesto": [
+          "Lead and persuade people",
+          "Sell things and ideas",
+          "Socialize"
+        ],
+        "Avoids": [
+          "Scientific",
+          "Analytical thinking",
+          "Positions without influence or control"
+        ],
+        "Hasgoodskillswith": [
+          "Leading and persuading people",
+          "Selling things or ideas",
+          "Speaking"
+        ],
+        "Values": [
+          "Success in politics",
+          "leadership or business",
+          "Ambition"
+        ]
+      },
+      "C": {
+        "pt": "C",
+        "personalityType": "Conventional",
+        "pageHeader": "great at planned tasks",
+        "compatibleTypes": [
+          "Enterprising",
+          "Realistic"
+        ],
+        "scoreDisplay": "orderly and conscientious",
+        "OneSentence": "You see yourself as good at following plans, persistent, and working in an orderly way.",
+        "Environment": "Conventional environments reward practical problem solving and careful planning.",
+        "Jobs": [
+          "Tax Preparer",
+          "Material Moving Clerk",
+          "Teller",
+          "Air Traffic Controller"
+        ],
+        "Likesto": [
+          "Work with records and machines",
+          "Carry out plans",
+          "Keep things organized"
+        ],
+        "Avoids": [
+          "Disorganization",
+          "Ambiguous unstructured activities"
+        ],
+        "Hasgoodskillswith": [
+          "Following plans",
+          "Working with records and numbers in an orderly way"
+        ],
+        "Values": [
+          "Success in business",
+          "Financial or business expertise",
+          "Efficiency"
+        ]
+      }
+    }
+  }
+]

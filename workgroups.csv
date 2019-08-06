@@ -1,0 +1,44 @@
+careerKeyId,title,personalityType
+1.01,Agriculture & Natural Resources,Realistic
+1.02,Safety & Law Enforcement,Realistic
+1.03,Engineering,Realistic
+1.04,Transportation & Distribution,Realistic
+1.05,Construction Crafts & Support,Realistic
+1.06,Crafts-Mechanical,Realistic
+1.07,Crafts-Electrical-Electronic,Realistic
+1.08,"Crafts-Metal, Wood, Plastic, Fabric",Realistic
+1.09,Food Preparation,Realistic
+1.1,Systems Operation,Realistic
+1.11,Equipment Operation,Realistic
+1.12,Manufacturing & Production,Realistic
+2.01,Physical Sciences,Investigative
+2.02,Life Sciences,Investigative
+2.03,Health Sciences,Investigative
+2.04,Laboratory & Medical Technology,Investigative
+2.05,Computer Science & Technology,Investigative
+2.06,Mathematics & Data Analysis,Investigative
+2.07,Social Sciences,Investigative
+2.08,Engineering,Investigative
+3.01,Literary Arts,Artistic
+3.02,Visual Arts,Artistic
+3.03,Drama & Dance,Artistic
+3.04,Music,Artistic
+3.05,Communications,Artistic
+4.01,Social Services,Social
+4.02,"Nursing, Therapy & Health Promotion",Social
+4.03,Child & Adult Care,Social
+4.04,Educational & Library Services,Social
+4.05,Sports,Social
+5.01,Sales & Purchasing,Enterprising
+5.02,"Hospitality, Beauty, & Customer Service",Enterprising
+5.03,Legal Practice & Support,Enterprising
+5.04,Business Administration,Enterprising
+5.05,Finance,Enterprising
+5.06,Government & Public Administration,Enterprising
+5.07,Promotion,Enterprising
+5.08,Regulations Enforcement,Enterprising
+6.01,Mathematical Detail,Conventional
+6.02,Financial Detail,Conventional
+6.03,Oral Communications,Conventional
+6.04,Materials & Records Processing,Conventional
+6.05,Administrative Detail,Conventional

@@ -1,0 +1,443 @@
+id,soc,name
+ckc.US.base-1.08-1,49-3021.00,Automotive Body Repairer 
+ckc.US.base-1.08-10,47-2211.00,Sheet Metal Worker 
+ckc.US.base-1.08-11,51-4111.00,Tool and Die Maker 
+ckc.US.base-1.08-12,51-4122.00,"Welder, Cutter, Solderer, or Brazer "
+ckc.US.base-1.08-2,47-2011.00,Boilermaker 
+ckc.US.base-1.08-3,51-7011.00,Cabinetmaker
+ckc.US.base-1.08-4,51-4012.00,Computer Control Programmer or Operator
+ckc.US.base-1.08-5,51-9071.00,Jeweler 
+ckc.US.base-1.08-6,51-4041.00,Machinist 
+ckc.US.base-1.08-7,51-9082.00,Medical Appliance Technician
+ckc.US.base-1.08-8,25-4013.00,Museum Technician or Conservator
+ckc.US.base-1.08-9,29-2081.00,"Optician, Dispensing "
+ckc.US.base-5.07-1,11-2011.00,Advertising and Promotions Manager
+ckc.US.base-5.07-2,41-3011.00,Advertising Sales Agent
+ckc.US.base-5.07-3,27-3043.04,Copy Writer
+ckc.US.base-5.07-4,11-2021.00,Marketing Manager 
+ckc.US.base-5.07-5,11-2031.00,Public Relations Manager 
+ckc.US.base-5.07-6,27-3031.00,Public Relations Specialist
+ckc.US.base-5.07-7,11-2022.00,Sales Manager 
+ckc.US.base-1.12-1,51-9081.00,Dental or Ophthalmic Laboratory Technician
+ckc.US.base-1.12-2,51-2022.00,Electrical or Electronic Equipment Assembler
+ckc.US.base-1.12-3,51-2023.00,Electromechanical Equipment Assembler
+ckc.US.base-1.12-4,51-2031.00,Engine or Other Machine Assembler
+ckc.US.base-1.12-5,51-9061.00,Inspector or Tester 
+ckc.US.base-1.12-6,51-4081.00,"Machine Setter, Operator, and Tender"
+ckc.US.base-1.12-7,51-4061.00,"Model Makers, Metal or Plastic"
+ckc.US.base-1.12-8,51-5112.00,Printing Press Operator 
+ckc.US.base-1.12-9,51-7099.00,Woodworker
+ckc.US.base-5.05-1,13-2011.01,Accountant or Auditor 
+ckc.US.base-5.05-2,13-2021.02,"Appraiser, Real Estate"
+ckc.US.base-5.05-3,11-1011.00,Chief Financial Officer
+ckc.US.base-5.05-4,11-3031.00,Financial Manager
+ckc.US.base-5.05-5,13-2072.00,Loan Officer 
+ckc.US.base-5.05-6,13-2052.00,Personal Financial Advisor
+ckc.US.base-5.05-7,11-3031.01,Treasurer or Controller
+ckc.US.base-1.11-1,45-2091.00,Agricultural Equipment Operator
+ckc.US.base-1.11-2,47-2073.00,Construction Equipment Operator 
+ckc.US.base-1.11-3,53-7021.00,Crane and Tower Operator 
+ckc.US.base-1.11-4,47-2073.00,"Grader, Bulldozer, or Scraper Operator "
+ckc.US.base-1.11-5,53-7051.00,Industrial Truck & Tractor Operator
+ckc.US.base-1.11-6,47-2071.00,Paving Equipment Operator 
+ckc.US.base-1.11-7,53-7121.00,"Tank Car, Truck, or Ship Loader "
+ckc.US.base-1.1-1,51-8013.00,Power Plant Operator 
+ckc.US.base-1.1-2,53-5031.00,Ship Engineer 
+ckc.US.base-1.1-3,51-8021.00,Stationary Engineer and Boiler Operator 
+ckc.US.base-1.1-4,51-8031.00,Water Treatment Plant Operator
+ckc.US.base-6.02-1,41-2011.00,Cashier 
+ckc.US.base-6.02-2,41-2021.00,Counter or Rental Clerk 
+ckc.US.base-6.02-3,41-2012.00,Gaming Cage Worker 
+ckc.US.base-6.02-4,43-9041.01,Insurance Claim Clerk
+ckc.US.base-6.02-5,41-2022.00,Parts Salesperson
+ckc.US.base-6.02-6,43-5051.00,Postal Service Clerk
+ckc.US.base-6.02-7,43-3071.00,Teller 
+ckc.US.base-6.03-1,53-2021.00,Air Traffic Controller
+ckc.US.base-6.03-2,43-4051.00,Customer Service Representative 
+ckc.US.base-6.03-3,43-4081.00,"Hotel, Motel, or Resort Desk Clerk "
+ckc.US.base-6.03-4,43-4131.00,Loan Interviewer or Clerk 
+ckc.US.base-6.03-5,43-5031.00,"Police, Fire, or Ambulance Dispatcher "
+ckc.US.base-6.03-6,43-4171.00,Receptionist 
+ckc.US.base-6.03-7,43-4181.00,Reservation or Transportation Ticket Agent
+ckc.US.base-5.03-1,23-1021.00,Administrative Law Judge/ Hearing Officer
+ckc.US.base-5.03-2,23-1022.00,"Arbitrator, Mediator, or Conciliator"
+ckc.US.base-5.03-3,23-1023.00,Judge
+ckc.US.base-5.03-4,23-1011.00,Lawyer
+ckc.US.base-5.03-5,23-2011.00,Paralegal/Legal Assistant 
+ckc.US.base-5.02-1,39-5011.00,Barber 
+ckc.US.base-5.02-2,35-3011.00,Bartender 
+ckc.US.base-5.02-3,53-2031.00,Flight Attendant 
+ckc.US.base-5.02-4,39-3019.00,Gaming Service Worker 
+ckc.US.base-5.02-5,39-5012.00,"Hairdresser, Hairstylist, or Cosmetologist "
+ckc.US.base-5.02-6,39-5092.00,Manicurist and Pedicurist
+ckc.US.base-5.02-7,39-5094.00,Skincare Specialist
+ckc.US.base-5.02-8,41-3041.00,Travel Agent 
+ckc.US.base-5.02-9,35-3031.00,Waiter/Waitress 
+ckc.US.base-1.06-1,49-3011.00,Aircraft Mechanic & Service Technician 
+ckc.US.base-1.06-10,49-3053.00,Outdoor Power Equipment or Other Small Engine Mechanics
+ckc.US.base-1.06-11,27-4031.00,"Television, Video, or Motion Picture Camera Operator "
+ckc.US.base-1.06-2,49-3023.00,Automotive Service Technician & Mechanic
+ckc.US.base-1.06-3,49-3031.00,Diesel Mechanic & Engine Service Specialist
+ckc.US.base-1.06-4,49-3041.00,Farm Equipment Mechanic 
+ckc.US.base-1.06-5,49-9021.00,"Heating, Air-Conditioning, or Refrigeration Technician "
+ckc.US.base-1.06-6,49-9041.00,Industrial Machinery Mechanic
+ckc.US.base-1.06-7,31-9093.00,Medical Equipment Repairer 
+ckc.US.base-1.06-8,49-9044.00,Millwright
+ckc.US.base-1.06-9,49-3042.00,Mobile Heavy Equipment Service Technician
+ckc.US.base-6.04-1,23-2091.00,Court Reporter 
+ckc.US.base-6.04-10,43-5061.00,"Production, Planning, or Expediting Clerks"
+ckc.US.base-6.04-11,43-5071.00,"Shipping, Receiving, or Traffic Clerk "
+ckc.US.base-6.04-12,43-5081.00,Stock Clerk or Order Filler
+ckc.US.base-6.04-13,43-5111.00,"Weigher, Measurer or Checker "
+ckc.US.base-6.04-2,43-4031.00,"Court, Municipal, or License Clerk "
+ckc.US.base-6.04-3,43-4071.00,File Clerk 
+ckc.US.base-6.04-4,43-4161.00,Human Resources Assistant
+ckc.US.base-6.04-5,29-2071.00,Medical Records and Health Information Technician 
+ckc.US.base-6.04-6,31-9094.00,Medical Transcriptionist 
+ckc.US.base-6.04-7,43-4151.00,Order Clerk
+ckc.US.base-6.04-8,29-2052.00,Pharmacy Technician 
+ckc.US.base-6.04-9,43-5052.00,Postal Service Mail Carrier
+ckc.US.base-2.03-1,29-1069.01,Allergist
+ckc.US.base-2.03-10,29-1041.00,Optometrist 
+ckc.US.base-2.03-11,29-1023.00,Orthodontist
+ckc.US.base-2.03-12,29-1065.00,Pediatrician
+ckc.US.base-2.03-13,29-1051.00,Pharmacist 
+ckc.US.base-2.03-14,29-1069.00,Physician or Surgeon 
+ckc.US.base-2.03-15,29-1067.00,Psychiatrist
+ckc.US.base-2.03-16,29-2055.00,Surgical Technologist 
+ckc.US.base-2.03-17,29-1131.00,Veterinarian 
+ckc.US.base-2.03-18,29-2056.00,Veterinary Technologist or Technician
+ckc.US.base-2.03-2,29-1061.00,Anesthesiologist
+ckc.US.base-2.03-3,29-1181.00,Audiologist 
+ckc.US.base-2.03-4,29-1069.00,Cardiologist 
+ckc.US.base-2.03-5,29-1011.00,Chiropractor 
+ckc.US.base-2.03-6,29-1021.00,Dentist 
+ckc.US.base-2.03-7,19-1041.00,Epidemiologist
+ckc.US.base-2.03-8,29-1063.00,Internist
+ckc.US.base-2.03-9,29-1064.00,Obstetrician 
+ckc.US.base-5.08-1,13-2061.00,Financial Examiner
+ckc.US.base-5.08-2,33-3021.05,Immigration or Customs Inspector 
+ckc.US.base-5.08-3,29-9011.00,Occupational Health and Safety Specialist
+ckc.US.base-5.08-4,13-2081.00,"Tax Examiner, Collector, or Revenue Agent"
+ckc.US.base-5.01-1,41-3021.00,Insurance Sales Agent 
+ckc.US.base-5.01-2,13-1021.00,Purchasing Agent or Buyer
+ckc.US.base-5.01-3,41-9022.00,Real Estate Sales Agent 
+ckc.US.base-5.01-4,41-2031.00,Retail Salesperson 
+ckc.US.base-5.01-5,41-3031.02,"Sales Agent, Financial Services"
+ckc.US.base-5.01-6,41-3031.01,"Sales Agent, Securities and Commodities"
+ckc.US.base-5.01-7,41-9031.00,Sales Engineer
+ckc.US.base-5.01-8,41-4012.00,"Sales Representative, Wholesale & Manufacturing"
+ckc.US.base-5.01-9,13-1022.00,Wholesale or Retail Buyer 
+ckc.US.base-1.05-1,47-2021.00,Brickmason or Blockmason
+ckc.US.base-1.05-10,47-2131.00,Insulation Worker 
+ckc.US.base-1.05-11,47-2141.00,"Painter, Construction or Maintenance "
+ckc.US.base-1.05-12,47-2152.00,"Plumber, Pipefitter, or Steamfitter "
+ckc.US.base-1.05-13,47-2181.00,Roofer               
+ckc.US.base-1.05-14,47-2231.00,Solar Photovoltaic Installer
+ckc.US.base-1.05-15,47-2221.00,Structural Iron & Steel Worker
+ckc.US.base-1.05-2,47-2031.00,Carpenter 
+ckc.US.base-1.05-3,47-2051.00,Cement Mason 
+ckc.US.base-1.05-4,47-2061.00,Construction Laborer
+ckc.US.base-1.05-5,47-2081.00,Drywall and Ceiling Tile Installer 
+ckc.US.base-1.05-6,47-2042.00,Floor Layer
+ckc.US.base-1.05-7,49-9071.00,General Maintenance & Repair Worker
+ckc.US.base-1.05-8,47-2121.00,Glazier (glass installer) 
+ckc.US.base-1.05-9,47-4041.00,Hazardous Materials Removal Worker 
+ckc.US.base-4.05-1,27-2022.00,Coach or Scout
+ckc.US.base-4.05-2,39-9031.00,Fitness Trainer or Aerobics Instructor
+ckc.US.base-4.05-3,39-9032.00,Recreation Worker
+ckc.US.base-4.05-4,27-2023.00,"Sports Official, Umpire, or Referee"
+ckc.US.base-1.01-1,19-4011.01,Agricultural Technician 
+ckc.US.base-1.01-10,37-3011.00,Landscaping or Groundskeeping Worker
+ckc.US.base-1.01-2,45-2021.00,Animal Breeder
+ckc.US.base-1.01-3,39-2021.00,Animal Caretaker 
+ckc.US.base-1.01-4,11-9013.00,Farmer or Rancher
+ckc.US.base-1.01-5,45-2092.00,Farmworker 
+ckc.US.base-1.01-6,45-3011.00,Fisher
+ckc.US.base-1.01-7,19-4011.02,Food Science Technician
+ckc.US.base-1.01-8,45-4011.00,Forest or Conservation Worker 
+ckc.US.base-1.01-9,19-1032.00,Forester 
+ckc.US.base-2.02-1,19-1011.00,Animal Scientist 
+ckc.US.base-2.02-2,19-1021.00,Biochemist or Biophysicist
+ckc.US.base-2.02-3,19-1031.00,Conservation Scientist 
+ckc.US.base-2.02-4,19-1012.00,Food Scientist or Technologist 
+ckc.US.base-2.02-5,19-1042.00,Medical Scientist
+ckc.US.base-2.02-6,19-1022.00,Microbiologist 
+ckc.US.base-2.02-7,19-1031.02,Range Manager
+ckc.US.base-2.02-8,19-1013.00,Soil or Plant Scientist
+ckc.US.base-2.02-9,19-1023.00,Zoologist or Wildlife Biologist
+ckc.US.base-6.01-1,43-3011.00,Bill and Account Collector 
+ckc.US.base-6.01-2,43-3021.02,"Billing, Cost, or Rate Clerk "
+ckc.US.base-6.01-3,43-3031.00,"Bookkeeping, Accounting or Auditing Clerk "
+ckc.US.base-6.01-4,43-4011.00,Brokerage Clerk
+ckc.US.base-6.01-5,13-1031.00,"Claims Adjuster, Examiner or Investigator "
+ckc.US.base-6.01-6,13-1051.00,Cost Estimator
+ckc.US.base-6.01-7,13-2051.00,Financial Analyst
+ckc.US.base-6.01-8,13-2053.00,Insurance Underwriter 
+ckc.US.base-6.01-9,43-3051.00,Payroll or Timekeeping Clerk 
+ckc.US.base-3.03-1,27-2011.00,Actor
+ckc.US.base-3.03-2,27-2032.00,Choreographer
+ckc.US.base-3.03-3,27-2031.00,Dancer 
+ckc.US.base-3.03-4,27-2012.02,"Director  (TV/radio, movies, theater)"
+ckc.US.base-3.03-5,39-5091.00,"Makeup Artist, Theatrical & Performance"
+ckc.US.base-3.03-6,41-9012.00,Model
+ckc.US.base-2.06-1,15-2011.00,Actuary 
+ckc.US.base-2.06-2,15-2021.00,Mathematician 
+ckc.US.base-2.06-3,15-2031.00,Operations Research Analyst 
+ckc.US.base-2.06-4,15-2041.00,Statistician
+ckc.US.base-6.05-1,13-2031.00,Budget Analyst
+ckc.US.base-6.05-2,43-6011.00,Executive Secretary or Administrative Assistant
+ckc.US.base-6.05-3,43-6012.00,Legal Secretary
+ckc.US.base-6.05-4,43-6013.00,Medical Secretary
+ckc.US.base-6.05-5,29-9012.00,Occupational Health & Safety Technician
+ckc.US.base-6.05-6,43-9061.00,Office Clerk
+ckc.US.base-6.05-7,43-3061.00,Purchasing (Procurement) Clerk or Technician
+ckc.US.base-6.05-8,43-6011.00,Secretary
+ckc.US.base-1.07-1,49-2091.00,Avionics Technician
+ckc.US.base-1.07-2,49-2011.00,Computer and Office Machine Repairer 
+ckc.US.base-1.07-3,49-2094.00,"Electrical & Electronic Installer or Repairer, Commercial &  Industrial Equipment"
+ckc.US.base-1.07-4,49-9051.00,Electrical Power-Line Installer & Repairer
+ckc.US.base-1.07-5,47-2111.00,Electrician 
+ckc.US.base-1.07-6,47-4021.00,Elevator Installer and Repairer 
+ckc.US.base-1.07-7,49-2022.00,Telecommunications Equipment Installer or Repairer
+ckc.US.base-1.04-1,53-2011.00,Aircraft Pilot
+ckc.US.base-1.04-10,53-3032.00,Truck Driver
+ckc.US.base-1.04-2,53-3021.00,Bus Driver
+ckc.US.base-1.04-3,53-4011.00,Locomotive Engineer 
+ckc.US.base-1.04-4,53-4031.00,Railroad Conductors and Yardmasters
+ckc.US.base-1.04-5,53-7081.00,Refuse and Recyclable Material Collector
+ckc.US.base-1.04-6,53-5011.00,Sailor or Marine Oiler 
+ckc.US.base-1.04-7,53-5021.01,Ship Captain
+ckc.US.base-1.04-8,43-5081.03,Stock Clerk – Warehouse or Storage Yard
+ckc.US.base-1.04-9,53-3041.00,Taxi Driver or Chauffeur
+ckc.US.base-2.08-1,17-2011.00,Aerospace Engineer 
+ckc.US.base-2.08-10,17-2081.00,Environmental Engineer
+ckc.US.base-2.08-11,17-2111.00,Health and Safety Engineer 
+ckc.US.base-2.08-12,17-2112.00,Industrial Engineer 
+ckc.US.base-2.08-13,13-1111.00,Management Analyst 
+ckc.US.base-2.08-14,17-2121.00,Marine Engineer or Naval Architect
+ckc.US.base-2.08-15,17-2161.00,Nuclear Engineer
+ckc.US.base-2.08-16,17-2171.00,Petroleum Engineer
+ckc.US.base-2.08-2,17-2021.00,Agricultural Engineer 
+ckc.US.base-2.08-3,17-2031.00,Biomedical Engineer 
+ckc.US.base-2.08-4,17-2041.00,Chemical Engineer 
+ckc.US.base-2.08-5,17-2051.00,Civil Engineer 
+ckc.US.base-2.08-6,17-2061.00,Computer Hardware Engineer 
+ckc.US.base-2.08-7,17-2071.00,Electrical Engineer 
+ckc.US.base-2.08-8,17-2072.00,Electronics Engineer 
+ckc.US.base-2.08-9,25-1032.00,"Engineering Teacher, Postsecondary"
+ckc.US.base-3.04-1,27-2041.04,Composer
+ckc.US.base-3.04-2,27-2041.04,Music Arranger or Orchestrator
+ckc.US.base-3.04-3,27-2041.01,Music Director
+ckc.US.base-3.04-4,27-2042.00,Musician 
+ckc.US.base-3.04-5,27-2042.01,Singer
+ckc.US.base-3.05-1,27-3021.00,Broadcast News Analyst
+ckc.US.base-3.05-2,27-3041.00,Editor
+ckc.US.base-3.05-3,27-3043.00,Freelance Writer
+ckc.US.base-3.05-4,27-3091.00,Interpreter or Translator
+ckc.US.base-3.05-5,27-3012.00,"Public Address Announcer, MC, or DJ"
+ckc.US.base-3.05-6,27-3011.00,Radio and Television Announcer
+ckc.US.base-3.05-7,27-3022.00,Reporter or Correspondent
+ckc.US.base-3.05-8,27-3042.00,Technical or Scientific Editor or Writer 
+ckc.US.base-4.03-1,39-9011.00,Child Care Worker 
+ckc.US.base-4.03-2,31-9091.00,Dental Assistant 
+ckc.US.base-4.03-3,31-1011.00,Home Health Aide 
+ckc.US.base-4.03-4,29-2061.00,Licensed Practical or Vocational Nurse
+ckc.US.base-4.03-5,31-9092.00,Medical Assistant 
+ckc.US.base-4.03-6,31-1014.00,Nursing Assistant 
+ckc.US.base-4.03-7,39-9021.00,Personal Care Aide
+ckc.US.base-4.03-8,21-1093.00,Social & Human Service Assistant
+ckc.US.base-1.09-1,51-3011.00,Baker 
+ckc.US.base-1.09-2,51-3021.00,Butcher or Meat Cutter
+ckc.US.base-1.09-3,35-2011.00,"Cook, Fast Food"
+ckc.US.base-1.09-4,35-2012.00,"Cook, Institution and Cafeteria"
+ckc.US.base-1.09-5,35-2014.00,"Cook, Restaurant "
+ckc.US.base-1.09-6,35-2021.00,Food Preparation Worker
+ckc.US.base-2.04-1,19-4021.00,Biological Technician 
+ckc.US.base-2.04-10,29-2012.00,Medical Laboratory Technician 
+ckc.US.base-2.04-11,29-2033.00,Nuclear Medicine Technologist
+ckc.US.base-2.04-12,31-9097.00,Phlebotomist
+ckc.US.base-2.04-2,29-2031.00,Cardiovascular Technologist or Technician 
+ckc.US.base-2.04-3,19-4031.00,Chemical Technician 
+ckc.US.base-2.04-4,29-2012.00,Clinical Laboratory Technician
+ckc.US.base-2.04-5,29-2011.00,Clinical Laboratory Technologist 
+ckc.US.base-2.04-6,29-2032.00,Diagnostic Medical Sonographer 
+ckc.US.base-2.04-7,19-4091.00,Environmental Science or Protection Technician
+ckc.US.base-2.04-8,19-4092.00,Forensic Science Technician 
+ckc.US.base-2.04-9,19-4041.00,Geological or Petroleum Technician
+ckc.US.base-5.06-1,25-4011.00,Archivist 
+ckc.US.base-5.06-2,25-4012.00,Curator
+ckc.US.base-5.06-3,11-9033.00,Education Administrator (Postsecondary)
+ckc.US.base-5.06-4,11-9161.00,Emergency Management Director
+ckc.US.base-5.06-5,11-1011.00,Government Service Executive
+ckc.US.base-5.06-6,11-1031.00,Legislator
+ckc.US.base-5.06-7,11-9032.00,School Principal
+ckc.US.base-4.01-1,21-1021.00,"Child, Family, or School Social Worker "
+ckc.US.base-4.01-10,21-1013.00,Marriage and Family Therapist
+ckc.US.base-4.01-11,21-1014.00,Mental Health Counselor 
+ckc.US.base-4.01-12,21-1092.00,Probation Officer or Correctional Treatment Specialist 
+ckc.US.base-4.01-13,21-1015.00,Rehabilitation Counselor
+ckc.US.base-4.01-14,19-3031.01,School Psychologist
+ckc.US.base-4.01-15,21-1011.00,Substance Abuse and Behavioral Disorder Counselor
+ckc.US.base-4.01-2,21-2011.00,Clergy
+ckc.US.base-4.01-3,19-3031.02,Clinical Psychologist 
+ckc.US.base-4.01-4,19-3031.03,Counseling Psychologist
+ckc.US.base-4.01-5,21-1012.00,"Educational, Vocational, or School Counselor "
+ckc.US.base-4.01-6,43-4061.00,Eligibility Interviewer
+ckc.US.base-4.01-7,29-9092.00,Genetic Counselor
+ckc.US.base-4.01-8,21-1091.00,Health Educator
+ckc.US.base-4.01-9,21-1022.00,Healthcare Social Worker
+ckc.US.base-2.01-1,19-2011.00,Astronomer 
+ckc.US.base-2.01-10,19-2012.00,Physicist
+ckc.US.base-2.01-11,19-1031.01,Soil Conservationist 
+ckc.US.base-2.01-2,19-2021.00,Atmospheric or Space Scientist
+ckc.US.base-2.01-3,19-2031.00,Chemist
+ckc.US.base-2.01-4,19-2041.00,Environmental Scientist 
+ckc.US.base-2.01-5,19-2042.00,Geologist 
+ckc.US.base-2.01-6,19-2042.00,Geophysicist
+ckc.US.base-2.01-7,19-2042.00,Geoscientist
+ckc.US.base-2.01-8,19-2043.00,Hydrologist
+ckc.US.base-2.01-9,19-2032.00,Materials Scientist 
+ckc.US.base-3.02-1,17-1011.00,Architect 
+ckc.US.base-3.02-10,27-1013.00,"Fine Artist -- Painter, Sculptor, or Illustrator"
+ckc.US.base-3.02-11,27-1023.00,Floral Designer 
+ckc.US.base-3.02-12,27-1024.00,Graphic Designer 
+ckc.US.base-3.02-13,27-1025.00,Interior Designer 
+ckc.US.base-3.02-14,17-1012.00,Landscape Architect 
+ckc.US.base-3.02-15,27-1013.00,Medical and Scientific Illustrator
+ckc.US.base-3.02-16,27-1014.00,Multi-Media Artist or Animator
+ckc.US.base-3.02-17,27-4021.00,Photographer
+ckc.US.base-3.02-18,27-4021.00,Scientific Photographer
+ckc.US.base-3.02-2,25-1031.00,"Architecture Teacher, Postsecondary"
+ckc.US.base-3.02-3,27-1011.00,Art Director
+ckc.US.base-3.02-4,27-1013.00,Artist
+ckc.US.base-3.02-5,27-1013.00,Cartoonist 
+ckc.US.base-3.02-6,27-1021.00,Commercial or Industrial Designer 
+ckc.US.base-3.02-7,43-9031.00,Desktop Publisher
+ckc.US.base-3.02-8,27-1022.00,Fashion Designer
+ckc.US.base-3.02-9,27-4032.00,Film or Video Editor
+ckc.US.base-1.02-1,33-3011.00,Bailiff
+ckc.US.base-1.02-10,33-9032.00,Security Guard 
+ckc.US.base-1.02-2,33-3012.00,Correctional Officer or Jailer 
+ckc.US.base-1.02-3,33-3021.00,Detective or Criminal Investigator
+ckc.US.base-1.02-4,29-2041.00,Emergency Medical Technician 
+ckc.US.base-1.02-5,33-2021.00,Fire Inspector or Investigator
+ckc.US.base-1.02-6,33-2011.00,Firefighter 
+ckc.US.base-1.02-7,33-3031.00,Fish and Game Warden
+ckc.US.base-1.02-8,33-3051.00,Police Officer or Sheriff
+ckc.US.base-1.02-9,33-9021.00,Private Detective or Investigator
+ckc.US.base-1.03-1,17-3011.00,Architectural or Civil Drafter
+ckc.US.base-1.03-10,19-4093.00,Forest or Conservation Technician
+ckc.US.base-1.03-11,17-3026.00,Industrial Engineering Technician
+ckc.US.base-1.03-12,17-2131.00,Materials Engineer
+ckc.US.base-1.03-13,17-2141.00,Mechanical Engineer 
+ckc.US.base-1.03-14,17-3027.00,Mechanical Engineering Technician
+ckc.US.base-1.03-15,17-2151.00,Mining or Geological Engineer 
+ckc.US.base-1.03-16,19-4051.00,Nuclear Technician 
+ckc.US.base-1.03-17,29-2034.00,Radiologic Technologist or Technician
+ckc.US.base-1.03-18,27-4014.00,Sound Engineering Technician 
+ckc.US.base-1.03-19,17-3031.00,Surveying or Mapping Technician
+ckc.US.base-1.03-2,27-4011.00,Audio & Video Equipment Technician
+ckc.US.base-1.03-20,17-1022.00,Surveyor
+ckc.US.base-1.03-21,49-9081.00,Wind Turbine Technician
+ckc.US.base-1.03-3,27-4012.00,Broadcast Technician 
+ckc.US.base-1.03-4,17-1021.00,Cartographer or Photogrammetrist
+ckc.US.base-1.03-5,17-3022.00,Civil Engineering Technician
+ckc.US.base-1.03-6,47-4011.00,Construction or Building Inspector
+ckc.US.base-1.03-7,17-3023.00,Electrical & Electronic Engineering Technician
+ckc.US.base-1.03-8,17-3024.00,Electro-Mechanical Technician
+ckc.US.base-1.03-9,17-3025.00,Environmental Engineering Technician
+ckc.US.base-2.05-1,15-1111.00,Computer or Information Scientist 
+ckc.US.base-2.05-10,15-1132.00,"Software Developer, Applications"
+ckc.US.base-2.05-11,15-1133.00,"Software Developer, Systems Software "
+ckc.US.base-2.05-12,15-1134.00,Web Developer
+ckc.US.base-2.05-2,15-1131.00,Computer Programmer
+ckc.US.base-2.05-3,15-1151.00,Computer Support Specialist
+ckc.US.base-2.05-4,15-1121.00,Computer Systems Analyst
+ckc.US.base-2.05-5,15-1152.00,Computer Network Support Specialist
+ckc.US.base-2.05-6,15-1141.00,Database Administrator
+ckc.US.base-2.05-7,15-1122.00,Information Security Analyst
+ckc.US.base-2.05-8,15-1142.00,Network & Computer System Administrator
+ckc.US.base-2.05-9,15-1143.00,Network Architect or Engineer
+ckc.US.base-2.07-1,19-3091.00,Anthropologist or Archaeologist 
+ckc.US.base-2.07-10,19-3022.00,Survey Researcher 
+ckc.US.base-2.07-11,19-3051.00,Urban or Regional Planner
+ckc.US.base-2.07-2,19-3011.00,Economist
+ckc.US.base-2.07-3,19-3092.00,Geographer
+ckc.US.base-2.07-4,19-3093.00,Historian 
+ckc.US.base-2.07-5,19-3032.00,Industrial-Organizational Psychologist 
+ckc.US.base-2.07-6,13-1161.00,Marketing Research Analyst
+ckc.US.base-2.07-7,19-3094.00,Political Scientist
+ckc.US.base-2.07-8,19-3039.00,Psychologist 
+ckc.US.base-2.07-9,19-3041.00,Sociologist 
+ckc.US.base-4.02-1,29-9091.00,Athletic Trainer
+ckc.US.base-4.02-10,29-2091.00,Orthotist and Prosthetist
+ckc.US.base-4.02-11,29-1123.00,Physical Therapist 
+ckc.US.base-4.02-12,31-2021.00,Physical Therapy Assistant 
+ckc.US.base-4.02-13,29-1071.00,Physician Assistant 
+ckc.US.base-4.02-14,29-2053.00,Psychiatric Technician or Aide
+ckc.US.base-4.02-15,29-1124.00,Radiation Therapist
+ckc.US.base-4.02-16,29-1125.00,Recreational Therapist 
+ckc.US.base-4.02-17,29-1141.00,Registered Nurse 
+ckc.US.base-4.02-18,29-1126.00,Respiratory Therapist 
+ckc.US.base-4.02-19,29-1127.00,Speech-Language Pathologist
+ckc.US.base-4.02-2,29-2021.00,Dental Hygienist 
+ckc.US.base-4.02-3,29-2051.00,Dietitian or Nutritionist
+ckc.US.base-4.02-4,29-1128.00,Exercise Physiologist
+ckc.US.base-4.02-5,31-9011.00,Massage Therapist
+ckc.US.base-4.02-6,29-1151.00,Nurse Anesthetist
+ckc.US.base-4.02-7,29-1171.00,Nurse Practitioner
+ckc.US.base-4.02-8,29-1122.00,Occupational Therapist 
+ckc.US.base-4.02-9,31-2011.00,Occupational Therapy Assistant 
+ckc.US.base-3.01-1,27-3043.05,Creative Writer
+ckc.US.base-3.01-2,27-3043.05,Poet or Lyricist
+ckc.US.base-3.01-3,27-3043.00,Writer or Author
+ckc.US.base-5.04-1,11-3011.00,Administrative Services Manager
+ckc.US.base-5.04-10,11-9041.00,Engineering Manager 
+ckc.US.base-5.04-11,11-9013.00,"Farm, Ranch, or Other Agricultural Manager "
+ckc.US.base-5.04-12,11-9051.00,Food Services Manager
+ckc.US.base-5.04-13,39-4031.00,Funeral Director
+ckc.US.base-5.04-14,11-9071.00,Gaming Manager or Supervisor
+ckc.US.base-5.04-15,11-1021.00,General and Operations Manager
+ckc.US.base-5.04-16,13-1071.00,Human Resources Specialist 
+ckc.US.base-5.04-17,11-3051.00,Industrial Production Manager 
+ckc.US.base-5.04-18,13-1075.00,Labor Relations Specialist
+ckc.US.base-5.04-19,11-9081.00,"Lodging Manager (e.g., Hotel, Motel, Resort)"
+ckc.US.base-5.04-2,13-1011.00,"Agent and Business Manager of Artists, Performers, and Athletes "
+ckc.US.base-5.04-20,13-1081.00,Logistician
+ckc.US.base-5.04-21,11-9111.00,Medical and Health Services Manager
+ckc.US.base-5.04-22,13-1121.00,"Meeting, Convention, and Event Planner"
+ckc.US.base-5.04-23,11-9121.00,Natural Science Manager
+ckc.US.base-5.04-24,11-9031.00,Preschool and Childcare Center Director
+ckc.US.base-5.04-25,27-2012.00,"Producer or Director (TV/radio, movies, theater)"
+ckc.US.base-5.04-26,11-9141.00,Property or Real Estate Manager
+ckc.US.base-5.04-27,11-3061.00,Purchasing Manager
+ckc.US.base-5.04-28,11-9151.00,Social and Community Service Manager
+ckc.US.base-5.04-29,27-2012.05,"Technical Director/Manager (TV/radio, movies, theater)"
+ckc.US.base-5.04-3,11-9013.00,Agricultural Manager
+ckc.US.base-5.04-30,11-3131.00,Training and Development Manager
+ckc.US.base-5.04-31,13-1151.00,Training and Development Specialist
+ckc.US.base-5.04-4,35-1011.00,Chef/Head Cook
+ckc.US.base-5.04-5,11-1011.00,Chief Executive Officer
+ckc.US.base-5.04-6,11-3111.00,Compensation & Benefits Manager
+ckc.US.base-5.04-7,11-3021.00,Computer and Information System Manager 
+ckc.US.base-5.04-8,11-9021.00,Construction Manager
+ckc.US.base-5.04-9,13-1071.00,"Employment, Recruitment and Placement Specialist"
+ckc.US.base-4.04-1,25-3011.00,Adult Literacy and High School Diploma Equivalency Teacher
+ckc.US.base-4.04-10,25-4021.00,Librarian 
+ckc.US.base-4.04-11,25-4031.00,Library Technician or Assistant 
+ckc.US.base-4.04-12,25-2022.00,Middle School Teacher
+ckc.US.base-4.04-13,25-1072.00,Nursing Instructor or Teacher
+ckc.US.base-4.04-14,25-1126.00,"Philosophy or Religion Teacher, Postsecondary"
+ckc.US.base-4.04-15,25-2011.00,Preschool Teacher
+ckc.US.base-4.04-16,25-2053.00,Special Education Teacher 
+ckc.US.base-4.04-17,25-9041.00,Teacher Assistant
+ckc.US.base-4.04-18,25-1199.00,"Teacher, Postsecondary"
+ckc.US.base-4.04-2,25-1194.00,Career and Technical Education Teacher
+ckc.US.base-4.04-3,25-1199.00,College or Community College Teacher 
+ckc.US.base-4.04-4,25-2021.00,Elementary School Teacher
+ckc.US.base-4.04-5,25-1071.00,"Health Specialties Teacher, Postsecondary"
+ckc.US.base-4.04-6,25-2031.00,High School Teacher
+ckc.US.base-4.04-7,25-9031.00,Instructional Coordinator 
+ckc.US.base-4.04-8,25-2012.00,Kindergarten Teacher
+ckc.US.base-4.04-9,25-1112.00,"Law Teacher, Postsecondary"

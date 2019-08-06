@@ -1,0 +1,277 @@
+[
+  {
+    "HeadersDescriptors":{
+      "Header1": "Tính cách của bạn",
+      "Descriptor1": [
+        {
+          "OnePersonality": "Bạn là ",
+          "TwoPersonalityCompatible": "Bạn là ",
+          "TwoPersonalityInConsistent": "Bạn kết hợp những sở thích và năng lực theo một cách đặc biệt.",
+          "MoreThanTwo": "Bạn có sự pha trộn của nhiều sở thích và năng lực."
+        }
+      ],
+      "Descriptor2": [
+        {
+          "OnePersonality": "Môi trường nghề nghiệp THUẬN LỢI",
+          "TwoPersonalityCompatible": "Môi trường nghề nghiệp THUẬN LỢI",
+          "TwoPersonalityInConsistent": "Môi trường nghề nghiệp THUẬN LỢI",
+          "MoreThanTwo": "Môi trường nghề nghiệp THUẬN LỢI"
+        }
+      ],
+      "Descriptor3": [
+        {
+          "TwoPersonalityInConsistent": "Sự kết hợp giữa hai nhóm tính cách không tương thích nhau tạo cho bạn những lợi thế trong một số nghề nghiệp và môi trường làm việc.",
+          "MoreThanTwo": "Bởi vì bạn có nhiều <a href='https://www.youtube.com/watch?v=JaisODEhFSo' target='_blank'>sở thích và năng lực khác nhau</a>, hãy xem lời khuyên của chúng tôi và tìm ra những cơ hội nghề nghiệp phù hợp."
+        }
+      ],
+      "URLDescriptor3": [
+        {
+          "TwoPersonalityInConsistent": "https://www.careerkey.org/choose-a-career/unusual-Holland-Code-combinations.html",
+          "MoreThanTwo": "https://www.youtube.com/watch?v=JaisODEhFSo"
+        }
+      ],
+      "Descriptor4": "Môi trường nghề nghiệp THÁCH THỨC",
+      "ValueProp1": [
+        {
+          "PageHeader": "6 nhóm",
+          "desc": "Chúng tôi xem 6 nhóm tính cách và đưa ra điểm số của bạn ở mỗi nhóm.",
+          "link": "Về lý thuyết nghề nghiệp Holland",
+          "url": "https://www.careerkey.org/discovery/about-Hollands-Theory.html"
+        }
+      ],
+      "ValueProp2": [
+        {
+          "PageHeader": "Điểm số của bạn",
+          "desc": "Điểm số giao động từ 0 đến 33. Điểm càng cao thì bạn càng phản ánh chính xác con người bạn thuộc nhóm tính cách đó.",
+          "link": "Về điểm số",
+          "url": "https://www.careerkey.org/discovery/about-the-scores.html"
+        }
+      ],
+      "ValueProp3": [
+        {
+          "PageHeader": "Môi trường làm việc lý tưởng",
+          "desc": "Điểm số của bạn càng cao, bạn sẽ càng thuận lợi trong môi trường làm việc gắn với nhóm tính cách đó.",
+          "linkCareers": "Chọn nghề nghiệp và ngành học",
+          "link": "Chọn nghề nghiệp và ngành học"
+        }
+      ],
+      "CalltoAction": [
+        {
+          "desc1Careers": "Bây giờ hãy chọn nghề nghiệp và ngành học",
+          "desc1": "Bây giờ hãy chọn nghề nghiệp và ngành học",
+          "desc2": "Hãy nhớ, bạn sẽ gặp thuận lợi nhất trong",
+          "oneTypePersonalitySuffix": "",
+          "oneTypePersonalityPrefix": "Môi trường",
+          "ExceptoneTypePersonalityPrefix": "Môi trường"
+        }
+      ],
+      "subHeadCol1": [
+        {
+          "header": "Thành công=Hòa hợp",
+          "p1": "Ghép tính cách của bạn với môi trường làm việc để thúc đẩy bạn trong sự nghiệp.",
+          "p2": "Khi bạn phát triển thuận lợi, bạn sử dụng kỹ năng và năng lực của mình để thể hiện những giá trị bản thân."
+        }
+      ],
+      "subHeadCol2": [
+        {
+          "header": "Xem sự tương thích",
+          "p1": "Có những nhóm tính cách giống với nhóm tính cách của bạn, được thể hiện trong <a href='https://www.careerkey.org/discovery/about-Hollands-Theory.html' target='_blank'>hình lục giác.</a>.",
+          "p2": "Những môi trường làm việc tương thích này có thể cũng giúp bạn phát triển thuận lợi."
+        }
+      ],
+      "subHeadCol3": [
+        {
+          "header": "Xem danh sách",
+          "p1Careers": "Career Key sắp xếp hàng trăm nghề nghiệp và ngành học tương ứng với những nhóm tính cách.",
+          "p1": "Career Key sắp xếp hàng trăm nghề nghiệp và ngành học tương ứng với những nhóm tính cách.",
+          "p2": "Chúng tôi có thể giúp bạn chọn lọc ngành nghề hoặc giới thiệu những sự lựa chọn mới."
+        }
+      ],
+      "Details": [
+        {
+          "DescriptionHeader": "NHÓM TÍNH CÁCH",
+          "Column1": "Nhóm tương thích",
+          "Column2": "Thích làm việc với",
+          "Column3": "Tránh",
+          "Column4": "Có kỹ năng tốt trong",
+          "Column5": "Coi trọng"
+        }
+      ]
+    },
+    "ShortDescriptions":{
+      "R":{
+        "pt": "R",
+        "personalityType": "Thực tế",
+        "pageHeader": "Thực hành",
+        "compatibleTypes": "Hệ thống và Tư duy",
+        "scoreDisplay": "Thực tế và chính xác",
+        "OneSentence": "Bạn nhìn nhận bản thân là người thực tế, có năng lực làm việc với máy móc,công cụ.",
+        "Environment": "Môi trường làm việc thực tế, đánh giá cao tính thực tiễn và tạo những sản phẩm cải tiến mà bạn có thể nhìn, ngắm, sờ nắn được.",
+        "Jobs": [
+          "Phi công",
+          "thợ cơ khí",
+          "lâm nghiệp"
+        ],
+        "Likesto": [
+          "Làm việc với công cụ",
+          "máy móc"
+        ],
+        "Avoids": [
+          "Các hoạt động xã hội",
+          "giảng dạy",
+          "chăm sóc bệnh nhân",
+          "truyền đạt thông tin"
+        ],
+        "Hasgoodskillswith": [
+          "Làm việc với công cụ",
+          "cơ khí",
+          "vẽ kỹ thuật",
+          "máy móc",
+          "động vật"
+        ],
+        "Values": [
+          "Những điều thực tế có thể nhìn thấy hay sờ nắn được",
+          "Trồng cây",
+          "nuôi động vật",
+          "Những thứ bạn tạo dựng hoặc cải tiến"
+        ]
+      },
+      "I":{
+        "pt": "I",
+        "personalityType": "Tư duy",
+        "pageHeader": "Chính xác",
+        "compatibleTypes": "Nghệ thuật và Thực tế",
+        "scoreDisplay": "Chính xác và trí tuệ",
+        "OneSentence": "Bạn nhìn nhận bản thân là người ham học hỏi, độc lập, học tốt toán và các môn khoa học.",
+        "Environment": "Môi trường tư duy, nhìn thế giới theo cách phức hợp và trìu tượng.",
+        "Jobs": [
+          "Nhà hóa học",
+          "lập trình",
+          "nhà kinh tế học",
+          "kỹ sư"
+        ],
+        "Likesto": [
+          "Nghiên cứu và giải quyết các vấn đề liên quan đến toán học hay khoa học."
+        ],
+        "Avoids": [
+          "Dẫn dắt",
+          "bán hàng",
+          "thuyết phục người khác"
+        ],
+        "Hasgoodskillswith": [
+          "Phân tích và giải quyết các vấn đề liên quan đến toán",
+          "và khoa học"
+        ],
+        "Values": [
+          "Ham học hỏi",
+          "Thành công về khoa học",
+          "Độc lập, Tư duy logic"
+        ]
+      },
+      "A":{
+        "pt": "A",
+        "personalityType": "Nghệ thuật",
+        "pageHeader": "Diễn cảm",
+        "compatibleTypes": "Tư duy và Xã hội",
+        "scoreDisplay": "Diễn cảm và độc lập",
+        "OneSentence": "Bạn nhìn nhận bản thân là người biểu cảm, độc đáo, độc lập, giàu ý tưởng, và có năng lực về nghệ thuật.",
+        "Environment": "Môi trường nghệ thuật, đánh giá cao tính độc đáo và sáng tạo.",
+        "Jobs": [
+          "Thời trang, Thiết kế Nhà văn Nhạc sỹ Kiến trúc sư"
+        ],
+        "Likesto": [
+          "Làm những hoạt động sáng tạo như diễn kịch, viết văn, âm nhạc"
+        ],
+        "Avoids": [
+          "Những hoạt động khuôn mẫu, lặp đi lặp lại"
+        ],
+        "Hasgoodskillswith": [
+          "Sáng tác, thể hiện bản thân trong viết văn",
+          "âm nhạc hay nghệ thuật"
+        ],
+        "Values": [
+          "Nghệ thuật sáng tạo Trí tưởng tượng Dũng khí"
+        ]
+      },
+      "S":{
+        "pt": "S",
+        "personalityType": "Xã hội",
+        "pageHeader": "Giúp ích",
+        "compatibleTypes": "Nghệ thuật và Ảnh hưởng",
+        "scoreDisplay": "Hữu ích và thấu hiểu",
+        "OneSentence": "Bạn nhìn nhận bản thân là người hữu ích, thân thiện và đáng tin cậy đối với những người xung quanh.",
+        "Environment": "Môi trường xã hội, đề cao sự giúp đỡ người khác, thân thiện, và giải quyết các vấn đề xã hội.",
+        "Jobs": [
+          "Giáo viên, Nhà tư vấn tâm lý, Y tá, Nhân viên xã hội, Huấn luyện viên"
+        ],
+        "Likesto": [
+          "Giảng dạy, chăm sóc người khác",
+          "truyền đạt thông tin"
+        ],
+        "Avoids": [
+          "Sử dụng công cụ",
+          "máy móc"
+        ],
+        "Hasgoodskillswith": [
+          "Giúp đỡ người khác Thấu hiểu con người Giảng dạy"
+        ],
+        "Values": [
+          "Giúp đỡ con người Giải quyết các vấn đề xã hội Công bằng"
+        ]
+      },
+      "E":{
+        "pt": "E",
+        "personalityType": "Ảnh hưởng",
+        "pageHeader": "Tham vọng",
+        "compatibleTypes": "Hệ thống và Xã hội",
+        "scoreDisplay": "Giàu năng lượng và tham vọng",
+        "OneSentence": "Bạn nhìn nhận bản thân là người hòa đồng, có năng lực trong việc ảnh hưởng người khác, đưa ý tưởng, và bán các sản phẩm.",
+        "Environment": "Môi trường kinh doanh, đề cao sự lãnh đạo, quyết đoán, và tham vọng.",
+        "Jobs": [
+          "Quản lý công, Luật sư",
+          " Quản lý bán hàng, Thủ quỹ"
+        ],
+        "Likesto": [
+          "Dẫn dắt và thuyết phục người khác Bán hàng và ý tưởng Giao thiệp xã hội"
+        ],
+        "Avoids": [
+          "Tư duy khoa học Những công việc không có tính quản trị và ảnh hưởng"
+        ],
+        "Hasgoodskillswith": [
+          "Lãnh đạo và thuyết phục con người Bán hàng hóa hay ý tưởng Diễn thuyết"
+        ],
+        "Values": [
+          "Thành công về chính trị",
+          "lãnh đạo",
+          "hay kinh doanh Tham vọng"
+        ]
+      },
+      "C":{
+        "pt": "C",
+        "personalityType": "Hệ thống",
+        "pageHeader": "Giỏi thực thi các kế hoạch",
+        "compatibleTypes": "Ảnh hưởng và Thực tế",
+        "scoreDisplay": "Ngăn nắp và chu đáo",
+        "OneSentence": "Bạn nhìn nhận bản thân là người có năng lực trong việc thực thi kế hoạch, kiên trì, và làm việc theo quy trình.",
+        "Environment": "Môi trường hệ thống, đề cao việc giải quyết vấn đề thực tế và làm việc cẩn thận theo kế hoạch, quy trình.",
+        "Jobs": [
+          "Nhân viên thuế",
+          "Thư ký, Nhân viên kiểm soát",
+          "Người điều khiển không lưu"
+        ],
+        "Likesto": [
+          "Làm việc với số liệu, máy móc Thực thi triển khai kế hoạch Giữ mọi việc ngăn nắp"
+        ],
+        "Avoids": [
+          "Việc thiếu tổ chức Không rõ ràng Các hoạt động không có kế hoạch"
+        ],
+        "Hasgoodskillswith": [
+          "Thực thi kế hoạch Làm việc với số liệu và con số theo quy trình"
+        ],
+        "Values": [
+          "Thành công về tài chính Sự thành thạo Hiệu suất"
+        ]
+      }
+    }  
+  }
+]

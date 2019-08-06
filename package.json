@@ -1,0 +1,18 @@
+{
+  "name": "azure-session",
+  "version": "1.0.0",
+  "description": "Check the consistency level for multiple read regions in cosmos db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Suman Gurung <sumangurung@lftechnology.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "documentdb": "^1.14.2",
+    "express-csv": "^0.6.0",
+    "jsonexport": "^2.3.0"
+  }
+}
